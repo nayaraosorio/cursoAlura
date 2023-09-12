@@ -1,0 +1,15 @@
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/bin/Debug/net7.0/ScreenSound
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/bin/Debug/net7.0/ScreenSound.deps.json
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/bin/Debug/net7.0/ScreenSound.runtimeconfig.json
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/bin/Debug/net7.0/ScreenSound.dll
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/bin/Debug/net7.0/ScreenSound.pdb
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/obj/Debug/net7.0/ScreenSound.csproj.AssemblyReference.cache
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/obj/Debug/net7.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/obj/Debug/net7.0/ScreenSound.AssemblyInfoInputs.cache
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/obj/Debug/net7.0/ScreenSound.AssemblyInfo.cs
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/obj/Debug/net7.0/ScreenSound.csproj.CoreCompileInputs.cache
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/obj/Debug/net7.0/ScreenSound.dll
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/obj/Debug/net7.0/refint/ScreenSound.dll
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/obj/Debug/net7.0/ScreenSound.pdb
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/obj/Debug/net7.0/ScreenSound.genruntimeconfig.cache
+/home/nayaraosorio/RiderProjects/ScreenSound/ScreenSound/obj/Debug/net7.0/ref/ScreenSound.dll
